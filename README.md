@@ -1,9 +1,9 @@
 # Week-IV-IP
 
 ## Table of contents
-* Introductuion
-*Technologies
-n
+* Introduction
+* Technologies
+
 
 ### Introduction
 This is a small independent project for my online Module Course in preparation for my Core Module. 
